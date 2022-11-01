@@ -2,3 +2,4 @@ flask
 python-dotenv
 rembg
 Werkzeug
+gunicorn==20.1.0
